@@ -1,0 +1,6 @@
+{
+  "full_name": "author or team",
+  "github_user": "github user or github organization name",
+  "package_name": "mypkg",
+  "short_description": "A python3 package"
+}
